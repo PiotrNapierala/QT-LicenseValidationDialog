@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>IMG/cancel.png</file>
+        <file>IMG/hashtag.png</file>
+        <file>IMG/key.png</file>
+        <file>IMG/ok.png</file>
+        <file>IMG/time.png</file>
+        <file>IMG/validation.png</file>
+        <file>IMG/user.png</file>
+    </qresource>
+</RCC>
