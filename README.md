@@ -69,5 +69,7 @@ In the beginning, we create one string of individual elements in the order: lice
 PS Easier license generation will be possible later with my generator. Search for the repository later - LicenseValidationGenerator. If it is not there yet, I am still working on it.
 
 ## Something else?
-If you use my class, please leave a message about it somewhere in your application. I will be extremely happy and motivated to continue working!<br>
-It was created in the QT program on the basis of an open source license.
+- If you use my class, please leave a message about it somewhere in your application. I will be extremely happy and motivated to continue working!<br>
+- It was created in the QT program on the basis of an open source license.<br>
+QT website: https://www.qt.io/
+- All icons were downloaded from Google Fonts under an open source license. You can use your own icons to replace files in the IMG directory.
