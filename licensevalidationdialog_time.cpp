@@ -16,7 +16,6 @@ void LicenseValidationDialog::SetupScript()
 
 void LicenseValidationDialog::processStarted()
 {
-	qDebug() << "START";
 	stream_data.clear();
 }
 
@@ -29,7 +28,6 @@ void LicenseValidationDialog::readyReadStandardOutput()
 void LicenseValidationDialog::encodingFinished()
 {
 	process_ok=true;
-	qDebug() << "END";
 }
 
 QStringList LicenseValidationDialog::RunCommand(QString command)
